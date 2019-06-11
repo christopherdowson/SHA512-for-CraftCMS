@@ -2,7 +2,9 @@
 
 A simple filter for twig to hash a string with sha512.
 
-IMPORTANT! Do not use md5 to hash passwords or other sensitive data, sha512 is considered crytographically broken.
+## Acknowledgements
+
+Based on the MD5 Twig filter from Steadfast Collective. https://packagist.org/packages/steadfastcollective/md5-twig-filter
 
 ## Requirements
 
