@@ -8,7 +8,7 @@ Based on the MD5 Twig filter from Steadfast Collective. https://packagist.org/pa
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0-beta.23 or later.
+This plugin requires Craft CMS 3.1.0 or later.
 
 ## Installation
 
