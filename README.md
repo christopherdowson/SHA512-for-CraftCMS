@@ -1,4 +1,4 @@
-# sha512 Twig Filter plugin for Craft CMS 4.x
+# sha512 Twig Filter plugin for Craft CMS 3.X/4.x
 
 A simple filter for twig to hash a string with sha512.
 
@@ -8,7 +8,7 @@ Based on the MD5 Twig filter from Steadfast Collective. https://packagist.org/pa
 
 ## Requirements
 
-This plugin requires Craft CMS 4.x or later.
+This plugin requires Craft CMS 3.X/4.x or later.
 
 ## Installation
 
