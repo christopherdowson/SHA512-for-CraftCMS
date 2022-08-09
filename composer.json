@@ -2,7 +2,7 @@
     "name": "christopherdowson/sha512twigfilter",
     "description": "A filter for twig to hash a string with sha512",
     "type": "craft-plugin",
-    "version": "1.0.0",
+    "version": "4.0.0",
     "keywords": [
         "craft",
         "cms",
@@ -11,18 +11,18 @@
         "sha512 twig filter"
     ],
     "support": {
-        "docs": "https://christopherdowson.studio/",
-        "issues": "https://christopherdowson.studio/"
+        "docs": "https://myfirstraygun.studio/",
+        "issues": "https://myfirstraygun.studio/"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Christopher Dowson",
-            "homepage": "https://christopherdowson.studio/"
+            "homepage": "https://myfirstraygun.studio/"
         }
     ],
     "require": {
-        "craftcms/cms": "^3.1.0"
+        "craftcms/cms": "4.0"
     },
     "autoload": {
         "psr-4": {
