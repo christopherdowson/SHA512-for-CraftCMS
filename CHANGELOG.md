@@ -11,3 +11,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## 4.0.0 - 2022-08-09
 ### Added
 - Craft 4 release
+
+## 4.0.1 - 2022-08-10
+### Added
+- Bugfix
