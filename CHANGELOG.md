@@ -15,3 +15,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## 4.0.1 - 2022-08-10
 ### Added
 - Bugfix
+
+## 4.0.2 - 2022-08-10
+### Added
+- Bugfix
