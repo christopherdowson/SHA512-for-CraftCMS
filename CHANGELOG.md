@@ -24,3 +24,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ### Added
 - Bugfix
 
+## 4.0.4 - 2022-08-10
+### Added
+- Bugfix
