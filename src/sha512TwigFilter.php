@@ -1,6 +1,6 @@
 <?php
 /**
- * sha512 Twig Filter plugin for Craft CMS 3.x/4.X
+ * sha512 Twig Filter plugin for Craft CMS 3.x/4.x
  *
  * A filter for twig to hash a string with sha512, based on the md5 filter by Daniel Jones.
  *
