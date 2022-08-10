@@ -2,7 +2,7 @@
     "name": "christopherdowson/sha512twigfilter",
     "description": "A filter for twig to hash a string with sha512",
     "type": "craft-plugin",
-    "version": "4.0.3",
+    "version": "4.0.4",
     "keywords": [
         "craft",
         "cms",
