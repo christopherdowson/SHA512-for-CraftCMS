@@ -55,7 +55,7 @@ class sha512TwigFilter extends Plugin
      *
      * @var string
      */
-    public $schemaVersion = '4.0.0';
+    public $schemaVersion = '1.0.0';
 
     // Public Methods
     // =========================================================================
